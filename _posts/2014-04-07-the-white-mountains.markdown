@@ -1,17 +1,11 @@
 ---
-title: 雪山
+title: 计划的开始
 layout: post
-guid: urn:uuid:afa0ccfa-bd18-4008-93f0-b12d20edefbc
 tags:
-  - photography
-  - hasselblad
-  - 500cm
-  - cf80
-  - japan
-  - month-favorite
+  - thinging
 ---
 
-[![White Mountains](/media/files/2014/04/07/white-mountains.jpg)](http://500px.com/photo/64294269)
+[![Hello world](/media/files/2014/05/18/20130519233925_40665.jpg)](http://qinerbaby.qiniudn.com/20130519233925_40665.jpg)
 
 天气终于暖和了起来，冬天就用这张不是全景的全景作为最后的作业吧
 
