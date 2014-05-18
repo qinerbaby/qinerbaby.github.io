@@ -5,7 +5,7 @@ tags:
   - thinging
 ---
 
-[![Hello world](/media/files/2014/05/18/20130519233925_40665.jpg)](http://qinerbaby.qiniudn.com/20130519233925_40665.jpg)
+[![Hello world](http://qinerbaby.qiniudn.com/20130519233925_40665.jpg)](http://qinerbaby.qiniudn.com/20130519233925_40665.jpg)
 
 天气终于暖和了起来，冬天就用这张不是全景的全景作为最后的作业吧
 
