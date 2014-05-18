@@ -2,7 +2,7 @@
 title: 计划的开始
 layout: post
 tags:
-  - thinging
+  - thinking
 ---
 
 ![Hello world](http://qinerbaby.qiniudn.com/20130519233925_40665.jpg)
