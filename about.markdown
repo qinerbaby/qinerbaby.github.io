@@ -4,19 +4,15 @@ layout: page
 ---
 
 a
+ i'm Software test engineer in hangzhou.
 
 > Minimalist | Appleist | Unixer | Coder
 
 who involved in 
 
-> [github](https://github.com/waynezhang)
+> [github](https://github.com/qinerbaby)
 
 mail 
 
-> echo srvpqxfbyqfvpdtkbjwt | tr yxwvtsrqpkjfdb zuonmlihgeca@.
+> echo qinerbaby@sina.cn
 
-or follow 
-
-> [@o_lll](https://twitter.com/#!/o_lll)
-
-to reach me
